@@ -1,0 +1,3 @@
+[submodule "generator/odin_bindgen"]
+	path = generator/odin_bindgen
+	url = https://github.com/Breush/odin-binding-generator
