@@ -1,0 +1,1 @@
+odin run src/main.odin -out=bin/main.exe -extra-linker-flags="/libpath:lib"
