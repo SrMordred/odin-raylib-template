@@ -1,5 +1,5 @@
 # odin-raylib-template
-Odin + Raylib 3.0 project template (and binding/project generator)
+Odin + Raylib 3.0 project template (and binding/project generator) (For Windows)
 
 `git clone --recurse-submodules https://github.com/SrMordred/odin-raylib-template`
 
